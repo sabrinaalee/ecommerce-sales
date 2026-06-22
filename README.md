@@ -43,7 +43,10 @@ Online Retail transactional dataset containing:
 ---
 
 ## Dashboard Preview
-[![Dashboard](E-commerce Sales Dashboard.png)]([https://public.tableau.com/your-dashboard-link](https://public.tableau.com/views/E-commerceSalesCustomerBehavior/E-commerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+![Dashboard](E-commerece%20sales%20dashboard.png)
+Live Dashboard: [https://public.tableau.com/shared/YHSW5J3CR?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/E-commerceSalesCustomerBehavior/E-commerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 ---
 
