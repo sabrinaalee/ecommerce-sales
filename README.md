@@ -43,7 +43,7 @@ Online Retail transactional dataset containing:
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](E-commerce Sales Dashboard.png)
 
 ---
 
